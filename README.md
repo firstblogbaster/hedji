@@ -1,3 +1,3 @@
 # hedji
-My learning repo
+My learning repo.
 Lessons from hyperskill.org
